@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:3:5-46
+	android:versionName
+		ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:5:5-30
+		INJECTED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml
+		INJECTED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:4:5-28
+		INJECTED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml
+		INJECTED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\M1033652\.android\build-cache\c72bf6ee566e36cc81e99cd1a91007a23bd441b8\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\M1033652\.android\build-cache\c34c9263d931224a673fe1981834b02c6f71704f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\M1033652\.android\build-cache\11964011479e4fcfff7d160a44efb088b4f48202\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\M1033652\.android\build-cache\c84ddc66e741d1d209bcd5de96b45fde270b632e\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\M1033652\.android\build-cache\1c6cd5754b9e81e56fa91a749f5396ebc1b07438\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\M1033652\.android\build-cache\96040481d6c79d7136b3821682c01cfec3b20888\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\M1033652\.android\build-cache\9a1ef9ae3b41ee2e00f26c711f8e83933b893e48\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\M1033652\.android\build-cache\2654f5183b3ce475fa6b1bdb15f162ac828d16c2\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\M1033652\.android\build-cache\a32832f06931982bd20328c69711c77773f471f1\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\M1033652\.android\build-cache\0fd2db5fa5acbf3bc570b271943194de06fa5b68\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\M1033652\.android\build-cache\c34c9263d931224a673fe1981834b02c6f71704f\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:9:9-38
+		INJECTED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml
+		INJECTED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:8:9-35
+		INJECTED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml
+		INJECTED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:13:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:14:22-77
+application
+ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:16:5-31:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\M1033652\.android\build-cache\c72bf6ee566e36cc81e99cd1a91007a23bd441b8\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\M1033652\.android\build-cache\c34c9263d931224a673fe1981834b02c6f71704f\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\M1033652\.android\build-cache\11964011479e4fcfff7d160a44efb088b4f48202\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\M1033652\.android\build-cache\c84ddc66e741d1d209bcd5de96b45fde270b632e\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\M1033652\.android\build-cache\1c6cd5754b9e81e56fa91a749f5396ebc1b07438\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\M1033652\.android\build-cache\96040481d6c79d7136b3821682c01cfec3b20888\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\M1033652\.android\build-cache\9a1ef9ae3b41ee2e00f26c711f8e83933b893e48\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\M1033652\.android\build-cache\2654f5183b3ce475fa6b1bdb15f162ac828d16c2\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\M1033652\.android\build-cache\a32832f06931982bd20328c69711c77773f471f1\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\M1033652\.android\build-cache\0fd2db5fa5acbf3bc570b271943194de06fa5b68\output\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:18:9-45
+activity#com.amazonaws.demo.lightcontrol.SplashScreen
+ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:20:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:24:27-74
+activity#com.amazonaws.demo.lightcontrol.GraphView
+ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:27:9-47
+	android:name
+		ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:27:19-44
+activity#com.amazonaws.demo.lightcontrol.LightActivity
+ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:29:9-30:20
+	android:name
+		ADDED from D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\AndroidManifest.xml:29:19-48
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\M1033652\.android\build-cache\c34c9263d931224a673fe1981834b02c6f71704f\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\M1033652\.android\build-cache\11964011479e4fcfff7d160a44efb088b4f48202\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\M1033652\.android\build-cache\c84ddc66e741d1d209bcd5de96b45fde270b632e\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\M1033652\.android\build-cache\1c6cd5754b9e81e56fa91a749f5396ebc1b07438\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\M1033652\.android\build-cache\96040481d6c79d7136b3821682c01cfec3b20888\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\M1033652\.android\build-cache\9a1ef9ae3b41ee2e00f26c711f8e83933b893e48\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\M1033652\.android\build-cache\2654f5183b3ce475fa6b1bdb15f162ac828d16c2\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\M1033652\.android\build-cache\a32832f06931982bd20328c69711c77773f471f1\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\M1033652\.android\build-cache\0fd2db5fa5acbf3bc570b271943194de06fa5b68\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\M1033652\.android\build-cache\c34c9263d931224a673fe1981834b02c6f71704f\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\M1033652\.android\build-cache\c34c9263d931224a673fe1981834b02c6f71704f\output\AndroidManifest.xml:27:13-51

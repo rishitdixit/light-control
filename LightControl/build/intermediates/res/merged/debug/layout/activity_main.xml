@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.amazonaws.demo.lightcontrol.LightActivity"
+    android:padding="3dp"
+    android:weightSum="1">
+
+    <ImageButton
+        android:id="@+id/button"
+        android:layout_width="40dp"
+        android:layout_height="35dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/refresh"
+        android:clickable="true"
+        android:contentDescription="refresh"
+        android:onClick="getShadow" />
+
+    <ToggleButton
+        android:id="@+id/enableButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="enableDisableClicked"
+        android:text="@string/enabled"
+        android:textOff="Disabled"
+        android:textOn="Enabled"
+        android:layout_weight="0.41"
+        android:layout_alignTop="@+id/viewId"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/viewId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="OnCLick"
+        android:layout_marginRight="28dp"
+        android:text="view"
+        android:layout_below="@+id/button"
+        android:layout_alignParentRight="true" />
+
+
+    <TextView
+        android:id="@+id/light"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/UnknownTemperatureText"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_alignBaseline="@+id/enableButton"
+        android:layout_alignBottom="@+id/enableButton"
+        android:layout_toRightOf="@+id/extTempLabelText"
+        android:layout_marginLeft="31dp" />
+
+
+
+    <TextView
+        android:id="@+id/intTempLabelText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LED"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_alignBaseline="@+id/light"
+        android:layout_alignBottom="@+id/light"
+        android:layout_alignLeft="@+id/extTempLabelText" />
+
+    <TextView
+        android:id="@+id/extTempLabelText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Buzzer"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_marginLeft="16dp"
+        android:layout_alignBaseline="@+id/buzzer"
+        android:layout_alignBottom="@+id/buzzer"
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        android:id="@+id/buzzer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="44dp"
+        android:text="@string/UnknownTemperatureText"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_below="@+id/light"
+        android:layout_alignLeft="@+id/light" />
+
+    <ToggleButton
+        android:id="@+id/enableButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="enableDisableBuzzer"
+        android:text="@string/enabled1"
+        android:textOff="Disabled"
+        android:textOn="Enabled"
+        android:layout_alignTop="@+id/buzzer"
+        android:layout_alignLeft="@+id/enableButton" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LED1"
+        android:layout_alignTop="@+id/enableButton2"
+        android:layout_alignLeft="@+id/extTempLabelText"
+        android:id="@+id/led1_btn" />
+
+    <ToggleButton
+        android:id="@+id/enableButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="enableDisableLed1"
+        android:textOff="Disabled"
+        android:textOn="Enabled"
+        android:layout_marginTop="23dp"
+        android:text="enabled2"
+        android:layout_below="@+id/enableButton1"
+        android:layout_alignLeft="@+id/enableButton1" />
+
+    <TextView
+        android:id="@+id/led1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/UnknownTemperatureText"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_alignBaseline="@+id/led1_btn"
+        android:layout_alignBottom="@+id/led1_btn"
+        android:layout_alignLeft="@+id/buzzer" />
+
+    <TextView
+        android:id="@+id/led2_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LED2"
+        android:layout_below="@+id/enableButton2"
+        android:layout_alignLeft="@+id/led1_btn"
+        android:layout_marginTop="46dp" />
+
+    <TextView
+        android:id="@+id/led2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/UnknownTemperatureText"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_alignBaseline="@+id/led2_btn"
+        android:layout_alignBottom="@+id/led2_btn"
+        android:layout_alignLeft="@+id/led1" />
+
+    <ToggleButton
+        android:id="@+id/enableButton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="enableDisableLed2"
+        android:text="@string/enabled3"
+        android:textOff="Disabled"
+        android:textOn="Enabled"
+        android:layout_alignBaseline="@+id/led2"
+        android:layout_alignBottom="@+id/led2"
+        android:layout_alignRight="@+id/enableButton2" />
+
+    <TextView
+        android:id="@+id/pot_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/led2_btn"
+        android:layout_alignStart="@+id/led2_btn"
+        android:layout_below="@+id/enableButton3"
+        android:layout_marginTop="38dp"
+        android:text="Pot" />
+
+    <TextView
+        android:id="@+id/pot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/led2"
+        android:layout_alignStart="@+id/led2"
+        android:layout_alignTop="@+id/pot_btn"
+        android:text="@string/UnknownTemperatureText"
+        android:textAppearance="?android:attr/textAppearanceLarge"/>
+</RelativeLayout>

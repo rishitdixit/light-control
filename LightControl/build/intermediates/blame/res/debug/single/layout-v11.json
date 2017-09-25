@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\home\\bitware\\db+Lightcontrol\\LightControl\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "D:\\home\\bitware\\.android\\build-cache\\fc13fd654c91053d35c0bdceddc89d863e2fd78c\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\home\\bitware\\Music\\LightControl\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "D:\\home\\bitware\\.android\\build-cache\\fc13fd654c91053d35c0bdceddc89d863e2fd78c\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\home\\bitware\\db+Lightcontrol\\LightControl\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "D:\\home\\bitware\\.android\\build-cache\\fc13fd654c91053d35c0bdceddc89d863e2fd78c\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\home\\bitware\\db+Lightcontrol\\LightControl\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "D:\\home\\bitware\\.android\\build-cache\\fc13fd654c91053d35c0bdceddc89d863e2fd78c\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\home\\bitware\\db+Lightcontrol\\LightControl\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "D:\\home\\bitware\\.android\\build-cache\\fc13fd654c91053d35c0bdceddc89d863e2fd78c\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\home\\bitware\\Music\\LightControl\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "D:\\home\\bitware\\.android\\build-cache\\fc13fd654c91053d35c0bdceddc89d863e2fd78c\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\IoT\\Asset-Plus\\Codebase\\Android_app\\Final_Build\\db+Lightcontrol\\db+Lightcontrol\\LightControl\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\M1033652\\.android\\build-cache\\c34c9263d931224a673fe1981834b02c6f71704f\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\home\\bitware\\Music\\LightControl\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "D:\\home\\bitware\\.android\\build-cache\\fc13fd654c91053d35c0bdceddc89d863e2fd78c\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\home\\bitware\\db+Lightcontrol\\LightControl\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "D:\\home\\bitware\\.android\\build-cache\\fc13fd654c91053d35c0bdceddc89d863e2fd78c\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\home\\bitware\\db+Lightcontrol\\LightControl\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "D:\\home\\bitware\\.android\\build-cache\\fc13fd654c91053d35c0bdceddc89d863e2fd78c\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\home\\bitware\\Music\\LightControl\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "D:\\home\\bitware\\.android\\build-cache\\fc13fd654c91053d35c0bdceddc89d863e2fd78c\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\IoT\\Asset-Plus\\Codebase\\Android_app\\Final_Build\\db+Lightcontrol\\db+Lightcontrol\\LightControl\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\M1033652\\.android\\build-cache\\c34c9263d931224a673fe1981834b02c6f71704f\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\home\\bitware\\Music\\LightControl\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "D:\\home\\bitware\\.android\\build-cache\\fc13fd654c91053d35c0bdceddc89d863e2fd78c\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\IoT\\Asset-Plus\\Codebase\\Android_app\\Final_Build\\db+Lightcontrol\\db+Lightcontrol\\LightControl\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\M1033652\\.android\\build-cache\\c34c9263d931224a673fe1981834b02c6f71704f\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\home\\bitware\\Music\\LightControl\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "D:\\home\\bitware\\.android\\build-cache\\fc13fd654c91053d35c0bdceddc89d863e2fd78c\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\IoT\\Asset-Plus\\Codebase\\Android_app\\Final_Build\\db+Lightcontrol\\db+Lightcontrol\\LightControl\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\M1033652\\.android\\build-cache\\c34c9263d931224a673fe1981834b02c6f71704f\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\IoT\\Asset-Plus\\Codebase\\Android_app\\Final_Build\\db+Lightcontrol\\db+Lightcontrol\\LightControl\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\M1033652\\.android\\build-cache\\c34c9263d931224a673fe1981834b02c6f71704f\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\IoT\\Asset-Plus\\Codebase\\Android_app\\Final_Build\\db+Lightcontrol\\db+Lightcontrol\\LightControl\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\M1033652\\.android\\build-cache\\c34c9263d931224a673fe1981834b02c6f71704f\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    }
+]

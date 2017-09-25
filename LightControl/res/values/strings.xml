@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LightControl</string>
+    <string name="get_button">Refresh</string>
+    <string name="request_default_text">Nothing...</string>
+    <string name="enableLableText">Enable/Disable</string>
+    <string name="enabled">Enabled</string>
+    <string name="enabled1">Enabled</string>
+    <string name="enabled2">Enabled</string>
+    <string name="enabled3">Enabled</string>
+    <string name="enabled4">Enabled</string>
+    <!--<string name="enabled4">Enabled</string>-->
+    <string name="enableLable">ON/OFF</string>
+    <string name="enableLable1">ON/OFF</string>
+    <string name="enableLable2">ON/OFF</string>
+    <string name="enableLable3">ON/OFF</string>
+    <!--<string name="enableLable3">ON/OFF</string>-->
+    <!--<string name="SetpointButtonText">Set</string>-->
+    <string name="UnknownTemperatureText">\?\?</string>
+    <string name="viewId">View</string>
+    <string name="linechart">LineChart</string>
+    <string name="str_btn_chart">Real Time Graph</string>
+    <string name="chart">chart</string>
+</resources>

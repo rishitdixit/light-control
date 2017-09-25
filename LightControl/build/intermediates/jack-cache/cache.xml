@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\M1033652\.android\build-cache\c84ddc66e741d1d209bcd5de96b45fde270b632e\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-88776a61ee4eeafa8e84505403bcbfa68c18329f.jar" />
+    </item>
+    <item
+        jar="C:\Users\M1033652\.android\build-cache\9a1ef9ae3b41ee2e00f26c711f8e83933b893e48\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-5a5f5ca9f4d250b82776d93e49fcafb0980908f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\M1033652\.android\build-cache\1c6cd5754b9e81e56fa91a749f5396ebc1b07438\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-2d74406b7053ce6e699d73889fa254f24ac963c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\M1033652\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.4.4\be72e3b1184efe23e7db677c6a2c0eec39744162\aws-android-sdk-core-2.4.4.jar"
+        revision="25.0.0"
+        sha1="be72e3b1184efe23e7db677c6a2c0eec39744162">
+        <dex dex="D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\aws-android-sdk-core-2.4.4-e7cdc210be4790b65ffd049efebbee4203c87ce9.jar" />
+    </item>
+    <item
+        jar="C:\Users\M1033652\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb-mapper\2.4.4\bdffd8bc51d59ca7b0872966778b967f33c87785\aws-android-sdk-ddb-mapper-2.4.4.jar"
+        revision="25.0.0"
+        sha1="bdffd8bc51d59ca7b0872966778b967f33c87785">
+        <dex dex="D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\aws-android-sdk-ddb-mapper-2.4.4-e274463cb2f08ff89215a4907626f1a3861986d3.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio1\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        revision="25.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\gson-2.2.4-ea3566817aae63c8e87ab16e4d1ccfdc8d788289.jar" />
+    </item>
+    <item
+        jar="C:\Users\M1033652\.android\build-cache\c72bf6ee566e36cc81e99cd1a91007a23bd441b8\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-fe515dbe766bd8e0d68c36e6222e9403ba39648c.jar" />
+    </item>
+    <item
+        jar="D:\Software\android-sdk\platforms\android-25\optional\org.apache.http.legacy.jar"
+        revision="25.0.0"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-7b462ba4c5cc656b682b3552b4723c720f95f9e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\M1033652\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.client.mqttv3\1.1.0\89d827ffa47c241f2627421ef1d6c7a8c207a341\org.eclipse.paho.client.mqttv3-1.1.0.jar"
+        revision="25.0.0"
+        sha1="89d827ffa47c241f2627421ef1d6c7a8c207a341">
+        <dex dex="D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\org.eclipse.paho.client.mqttv3-1.1.0-a9f9203299d4f7f888a4ce7508ca340e2c82ac3e.jar" />
+    </item>
+    <item
+        jar="C:\Users\M1033652\.android\build-cache\a32832f06931982bd20328c69711c77773f471f1\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-93940b259500981266e3cdc60a7ad708c8e36102.jar" />
+    </item>
+    <item
+        jar="C:\Users\M1033652\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\constraint-layout-solver-1.0.2-bfabfb0455749085e68b8d9bb3f9fa3682e85f9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\M1033652\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-iot\2.4.4\62a0d303f5d3403ea263d3335a3f156b62211d5b\aws-android-sdk-iot-2.4.4.jar"
+        revision="25.0.0"
+        sha1="62a0d303f5d3403ea263d3335a3f156b62211d5b">
+        <dex dex="D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\aws-android-sdk-iot-2.4.4-e6f85089d37bc0c99d4ce3c72fa9de0695dbf3a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\M1033652\.android\build-cache\2654f5183b3ce475fa6b1bdb15f162ac828d16c2\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-d4482b7febab815229653406d0efaf04d8beceaa.jar" />
+    </item>
+    <item
+        jar="C:\Users\M1033652\.android\build-cache\0fd2db5fa5acbf3bc570b271943194de06fa5b68\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-cba207a974212beb75d7e254adc57ebc445f53fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\M1033652\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-s3\2.4.4\6e33749c1f26fa10a73335cbce8b14035c3dd60e\aws-android-sdk-s3-2.4.4.jar"
+        revision="25.0.0"
+        sha1="6e33749c1f26fa10a73335cbce8b14035c3dd60e">
+        <dex dex="D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\aws-android-sdk-s3-2.4.4-6b0c9a39a12b4383558bf0d7c827cae1ce8997b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\M1033652\.android\build-cache\96040481d6c79d7136b3821682c01cfec3b20888\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-520fde8cd7b368a1e1450c4839561b81a7064403.jar" />
+    </item>
+    <item
+        jar="C:\Users\M1033652\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb\2.4.4\7bf3d671462e09a84b73b797ddbed34900e0bfb9\aws-android-sdk-ddb-2.4.4.jar"
+        revision="25.0.0"
+        sha1="7bf3d671462e09a84b73b797ddbed34900e0bfb9">
+        <dex dex="D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\aws-android-sdk-ddb-2.4.4-1d458033db2307a2a4a455d1ba94b8b978accaaf.jar" />
+    </item>
+    <item
+        jar="C:\Users\M1033652\.android\build-cache\11964011479e4fcfff7d160a44efb088b4f48202\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-c5f9ec8a6ef4a28b325c5f8775e7ef81fb52255f.jar" />
+    </item>
+    <item
+        jar="C:\Users\M1033652\.android\build-cache\c34c9263d931224a673fe1981834b02c6f71704f\output\jars\classes.jar"
+        revision="25.0.0"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-194a3dfc2c4685115f81011a584ab0da0f1ec46c.jar" />
+    </item>
+    <item
+        jar="D:\Software\android-sdk\platforms\android-25\android.jar"
+        revision="25.0.0"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-a545632fd4be91d30492b6a6b7ceb50a0e0d1f6f.jar" />
+    </item>
+    <item
+        jar="C:\Users\M1033652\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.4.0\f6a2fc748ae3769633dea050563e1613e93c135e\support-annotations-25.4.0.jar"
+        revision="25.0.0"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-25.4.0-75a9f6dab6e8e19fb666b4003680bf354d3faefa.jar" />
+    </item>
+    <item
+        jar="C:\Users\M1033652\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.1.6\b036abbb61656165da99cf44898e4b9123687e65\MPAndroidChart-v2.1.6.jar"
+        revision="25.0.0"
+        sha1="b036abbb61656165da99cf44898e4b9123687e65">
+        <dex dex="D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\MPAndroidChart-v2.1.6-91a9adbda46c41dc9bb88e2c3d89b0a4559678ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\M1033652\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-kms\2.4.4\51fcefeee5f853ea39ab807b4fb76c9681f0fb32\aws-android-sdk-kms-2.4.4.jar"
+        revision="25.0.0"
+        sha1="51fcefeee5f853ea39ab807b4fb76c9681f0fb32">
+        <dex dex="D:\IoT\Asset-Plus\Codebase\Android_app\Final_Build\db+Lightcontrol\db+Lightcontrol\LightControl\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\aws-android-sdk-kms-2.4.4-a4f2060bde25e0a87adda3219fa12ec183152631.jar" />
+    </item>
+
+</items>
